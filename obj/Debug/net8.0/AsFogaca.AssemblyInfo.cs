@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsFogaca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b109e8702ac247da2cc4e7c1d53f03d3595e3e1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsFogaca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsFogaca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
