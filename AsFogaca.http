@@ -1,0 +1,6 @@
+@AsFogaca_HostAddress = http://localhost:5239
+
+GET {{AsFogaca_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
